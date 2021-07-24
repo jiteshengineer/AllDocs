@@ -1,5 +1,7 @@
 Permission Desined issue 
 
+sudo docker run hello-world
+
 If you want to run docker as non-root user then you need to add it to the docker group.
 
     Create the docker group if it does not exist
